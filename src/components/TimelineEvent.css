@@ -3,11 +3,11 @@
   grid-template: 2rem auto 2rem / 1fr 1fr;
   padding: 0.5rem;
   border-bottom: 1px solid #E6ECF0;
-  background-color: #FFF;
+  background-color:#05a19c ;
 }
 
 .timeline-event:hover {
-  background-color: #F5F8FA;
+  background-color: #ffe837;
 }
 
 .event-person {
@@ -25,3 +25,4 @@
   margin-top: 0.5rem;
   text-align: right;
 }
+
